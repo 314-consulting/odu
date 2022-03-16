@@ -1,2 +1,2 @@
-# ODU
-Odoo ( OCA ) &amp; Docker &amp; Ubuntu
+# odu
+**O**doo ( OCA ) &amp; **D**ocker &amp; **U**buntu
